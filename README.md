@@ -1,4 +1,4 @@
-# <PayForward>
+# PayForward
 
 ## サイト概要
 ### サイトテーマ
